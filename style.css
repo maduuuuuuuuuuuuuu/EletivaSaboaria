@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+
+
+body{
+    background-color: #f7a1a4;
+    
+}
+#foto{
+    border: 2px solid;
+    border-radius: 50% 50% 50% 50%;
+    width: 170px;
+    height: 170px;
+   
+}
+#titulo{
+   
+    margin-top: 1px;
+    display: flex;
+    float: right;
+    margin-right: 1010px;
+    margin-top: 60px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 45px;
+
+}
+.coisa{
+    margin-left: 40px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+}
